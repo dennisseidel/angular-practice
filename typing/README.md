@@ -1,6 +1,6 @@
 # Typing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+I build this project to learn the angular basics. The project includes an typing lesson formular including conditional color coding of letters. It is based on https://www.udemy.com/course/the-modern-angular-bootcamp/ Lesson: **Exercise! Building a Typing Game**
 
 ## Development server
 
